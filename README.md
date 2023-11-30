@@ -1,7 +1,9 @@
 # KEIS_PROJECT
 
-Programming Language : Python
+Programming Language : Python  
 
-This is a similar company renewal code that is part of a project that was carried out with the Korea Employment Information Service. Data is not provided for security reasons.
+* 기업고객에 맞춘 유사기업을 선정하여 고용장려금, 기업직업훈련, 채용공고 추천하는 프로젝트
 
-한국고용정보원과 같이 진행하였던 프로젝트의 일부분인 유사기업 갱신 코드입니다. 데이터는 보안상의 이유로 제공하지 않습니다.
+* 한국고용정보원과 같이 진행하였던 프로젝트로, 데이터와 많은 자문을 해주셨습니다.
+
+* __데이터는 보안상의 이유로 제공하지 않습니다.__
